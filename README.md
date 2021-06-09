@@ -2,7 +2,7 @@
 
 How often do you catch yourself wanting to simply append one string to another to create a URL (even though you know
 that it is bad practice)? Ever run into problems where you forget if you left a trailing slash as you are building a
-URL? If any of these problems sound familiar to you you might find this little library helpful.
+URL? If any of these problems sound familiar you might find this little library helpful.
 
 This library was inspired by the JavaScript library of the same name [url-join](https://www.npmjs.com/package/url-join)
 and it serves basically the same purpose.
